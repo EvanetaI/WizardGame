@@ -1,1 +1,1 @@
-# WizardGame
+# Wizard-Game
